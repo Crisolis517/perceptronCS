@@ -1,0 +1,15 @@
+Package: perceptronCS
+Type: Package
+Title: Perceptron Simple y Utilidades para Redes Neuronales
+Version: 0.1.0
+Author: Cristian Solis [aut, cre]
+Maintainer: Cristian Solis <Crisolis517@users.noreply.github.com>
+Description: Implementacion desde cero del perceptron simple de Rosenblatt con
+    funciones para entrenar, predecir, graficar la frontera de decision y evaluar
+    el modelo. Desarrollado para la asignatura Redes Neuronales y Deep Learning de
+    la Maestria en Estadistica (Ciencia de Datos e IA) de la ESPOCH.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Imports: graphics, stats
+Suggests: readxl
+RoxygenNote: 7.3.2
